@@ -1,0 +1,26 @@
+h3{
+    text-align: left;
+    font-size: 25px;
+}
+a{
+    text-align: right;
+}
+.section-one{
+background-color: burlywood;
+}
+ul{
+    font-size: 20px;
+}
+a{
+    text-align: right;
+}
+h1{
+font-style: italic;
+font-size: 30px;
+}
+p{
+text-align: justify;
+}
+.section-two{
+    background-color: darkgrey;
+}
